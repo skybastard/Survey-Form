@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body {
+	text-align: center;
+	font-family: "Raleway", Helvetica;
+}
+#title{
+	font-size: 40px;
+}
+#description{
+	font-size: 20px;
+}
+input{
+	margin: 5px;
+}
